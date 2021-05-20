@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Powerhorang2 GitHub stats](https://github-readme-stats.vercel.app/api?username=powerhorang2&show_icons=true&theme=radical)](https://github.com/powerhorang2/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powerhorang2&langs_count=9&hide=TSQL,PLpgSQL,PLSQL&layout=compact&theme=radical)
+](https://github.com/powerhorang2/github-readme-stats)
+
 <!--
 **powerhorang2/powerhorang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
