@@ -1,21 +1,18 @@
-### Hi there 👋
+<h2 align="center">Hello there! 👋</h2>
 
-[![Powerhorang2 GitHub stats](https://github-readme-stats.vercel.app/api?username=powerhorang2&show_icons=true&theme=radical)](https://github.com/powerhorang2/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powerhorang2&langs_count=9&hide=TSQL,PLpgSQL,PLSQL&layout=compact&theme=radical)
-](https://github.com/powerhorang2/github-readme-stats)
+## 📈 My GitHub Stats
+### GitHub Stars
 
-<!--
-**powerhorang2/powerhorang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=powerhorang2&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- try
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerhorang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Streak
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=powerhorang2&theme=highcontrast&hide_border=true" alt="powerhorang2" />
+
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=powerhorang2&theme=dracula&hide_border=true)
